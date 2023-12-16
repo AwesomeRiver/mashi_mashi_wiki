@@ -3,9 +3,9 @@
 
 
 ## 基本情報
-画面名|リソース名|ルートファイル|参照S3
---|--|--|--|--
-マシマシサーチ|mashi-mashi-dev-cloudfront-001|index.html|mashi-mashi-dev-s3-001
+画面名|リソース名|ルートファイル|参照S3|  
+--|--|--|--|  
+マシマシサーチ|mashi-mashi-dev-cloudfront-001|index.html|mashi-mashi-dev-s3-001|  
 
 ## リソース詳細情報
 
